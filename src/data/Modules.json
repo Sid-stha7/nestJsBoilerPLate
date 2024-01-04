@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "value": "USER",
+    "label": "User Module"
+  },
+  {
+    "id": 2,
+    "value": "ROLE",
+    "label": "Role Module"
+  },
+  {
+    "id": 3,
+    "value": "PERMISSION",
+    "label": "Module Permission"
+  },
+  {
+    "id": 4,
+    "value": "MANUFACTURE",
+    "label": "Manufacture"
+  },
+  {
+    "id": 5,
+    "value": "MANUFACTURE_USER",
+    "label": "Manufacture User"
+  },
+  {
+    "id": 6,
+    "value": "MANUFACTURE_ADMIN",
+    "label": "Manufacture Admin"
+  }
+]

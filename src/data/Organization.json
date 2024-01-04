@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "intopros",
+    "address": "bharatpur,chitwan",
+    "email": "intopros@gmail.com",
+    "phoneNumber": "9999999999",
+    "gst": 10,
+    "pan": "1010410",
+    "tan": "22324245",
+    "status": "active",
+    "createdById": 1
+  }
+]

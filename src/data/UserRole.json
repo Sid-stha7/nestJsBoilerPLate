@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "value": "ADMIN",
+    "label": "Super Admin",
+    "type": "SYSTEM",
+    "manufacture": null,
+    "permissionsName": [
+      "ROLE::VIEW",
+      "ROLE::INSERT",
+      "ROLE::UPDATE",
+      "ROLE::REMOVE",
+      "SELF::VIEW",
+      "SELF::UPDATE",
+      "PERMISSION::VIEW",
+      "APPLICATION_USER::VIEW",
+      "APPLICATION_USER::INSERT",
+      "APPLICATION_USER::UPDATE",
+      "APPLICATION_USER::REMOVE",
+      "MANUFACTURE_ADMIN::INSERT",
+      "MANUFACTURE_ADMIN::UPDATE",
+      "MANUFACTURE_ADMIN::VIEW",
+      "MANUFACTURE_ADMIN::REMOVE",
+      "MANUFACTURE::INSERT",
+      "MANUFACTURE::VIEW",
+      "MANUFACTURE::UPDATE",
+      "MANUFACTURE::REMOVE",
+      "MANUFACTURE_USER::VIEW",
+      "MANUFACTURE_USER::INSERT",
+      "MANUFACTURE_USER::UPDATE",
+      "MANUFACTURE_USER::REMOVE",
+      "MANUFACTURE_ROLE::VIEW",
+      "MANUFACTURE_ROLE::INSERT",
+      "MANUFACTURE_ROLE::UPDATE",
+      "MANUFACTURE_ROLE::REMOVE",
+      "MANUFACTURE_PERMISSION::VIEW"
+    ]
+  },
+  {
+    "id": 2,
+    "value": "MANUFACTURE_ADMIN",
+    "label": "Manufacture Admin",
+    "type": "SYSTEM",
+    "manufacture": null,
+    "permissionsName": [
+      "MANUFACTURE_USER::VIEW",
+      "MANUFACTURE_USER::INSERT",
+      "MANUFACTURE_USER::UPDATE",
+      "MANUFACTURE_USER::REMOVE",
+      "MANUFACTURE_SELF::UPDATE",
+      "MANUFACTURE_SELF::VIEW",
+      "MANUFACTURE_ROLE::VIEW",
+      "MANUFACTURE_ROLE::INSERT",
+      "MANUFACTURE_ROLE::UPDATE",
+      "MANUFACTURE_ROLE::REMOVE",
+      "MANUFACTURE_PERMISSION::VIEW"
+    ]
+  }
+]

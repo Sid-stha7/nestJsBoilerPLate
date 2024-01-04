@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "value": "APPLICATION_USER::VIEW",
+    "label": "View Application User",
+    "module": "USER",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 2,
+    "value": "APPLICATION_USER::INSERT",
+    "label": "Add Application User",
+    "module": "USER",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 3,
+    "value": "APPLICATION_USER::UPDATE",
+    "label": "Update Application User",
+    "module": "USER",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 4,
+    "value": "APPLICATION_USER::REMOVE",
+    "label": "Remove Application User",
+    "module": "USER",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 5,
+    "value": "SELF::UPDATE",
+    "label": "Update Self Data",
+    "module": "USER",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 6,
+    "value": "SELF::VIEW",
+    "label": "View Self Data",
+    "module": "USER",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 7,
+    "value": "ROLE::VIEW",
+    "label": "View Roles",
+    "module": "ROLE",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 8,
+    "value": "ROLE::INSERT",
+    "label": "Add New Role",
+    "module": "ROLE",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 9,
+    "value": "ROLE::UPDATE",
+    "label": "Modify Role",
+    "module": "ROLE",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 10,
+    "value": "ROLE::REMOVE",
+    "label": "Remove Role",
+    "module": "ROLE",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 11,
+    "value": "PERMISSION::VIEW",
+    "label": "View Permission",
+    "module": "PERMISSION",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 12,
+    "value": "MANUFACTURE_USER::VIEW",
+    "label": "View User",
+    "module": "MANUFACTURE_USER",
+    "type": "MANUFACTURE"
+  },
+  {
+    "id": 13,
+    "value": "MANUFACTURE_USER::INSERT",
+    "label": "Add User",
+    "module": "MANUFACTURE_USER",
+    "type": "MANUFACTURE"
+  },
+  {
+    "id": 14,
+    "value": "MANUFACTURE_USER::UPDATE",
+    "label": "Update User",
+    "module": "MANUFACTURE_USER",
+    "type": "MANUFACTURE"
+  },
+  {
+    "id": 15,
+    "value": "MANUFACTURE_USER::REMOVE",
+    "label": "Remove User",
+    "module": "MANUFACTURE_USER",
+    "type": "MANUFACTURE"
+  },
+  {
+    "id": 16,
+    "value": "MANUFACTURE_SELF::UPDATE",
+    "label": "Update Self Data",
+    "module": "MANUFACTURE_USER",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 17,
+    "value": "MANUFACTURE_SELF::VIEW",
+    "label": "View Self Data",
+    "module": "MANUFACTURE_USER",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 18,
+    "value": "MANUFACTURE_ROLE::VIEW",
+    "label": "View Roles on Manufacture",
+    "module": "ROLE",
+    "type": "MANUFACTURE"
+  },
+  {
+    "id": 19,
+    "value": "MANUFACTURE_ROLE::INSERT",
+    "label": "Add New Role On Manufacture",
+    "module": "ROLE",
+    "type": "MANUFACTURE"
+  },
+  {
+    "id": 20,
+    "value": "MANUFACTURE_ROLE::UPDATE",
+    "label": "Modify Manufacture Role",
+    "module": "ROLE",
+    "type": "MANUFACTURE"
+  },
+  {
+    "id": 21,
+    "value": "MANUFACTURE_ROLE::REMOVE",
+    "label": "Remove Manufacture Role",
+    "module": "ROLE",
+    "type": "MANUFACTURE"
+  },
+  {
+    "id": 22,
+    "value": "MANUFACTURE_PERMISSION::VIEW",
+    "label": "View Manufacture Permission",
+    "module": "PERMISSION",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 23,
+    "value": "MANUFACTURE_ADMIN::VIEW",
+    "label": "View Manufacture Admin",
+    "module": "MANUFACTURE_ADMIN",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 24,
+    "value": "MANUFACTURE_ADMIN::INSERT",
+    "label": "Add New Manufacture Admin",
+    "module": "MANUFACTURE_ADMIN",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 25,
+    "value": "MANUFACTURE_ADMIN::UPDATE",
+    "label": "Manufacture Admin Update",
+    "module": "MANUFACTURE_ADMIN",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 26,
+    "value": "MANUFACTURE_ADMIN::REMOVE",
+    "label": "Manufacture Admin update",
+    "module": "MANUFACTURE_ADMIN",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 27,
+    "value": "MANUFACTURE::INSERT",
+    "label": "Add Manufacture",
+    "module": "MANUFACTURE",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 28,
+    "value": "MANUFACTURE::VIEW",
+    "label": "view Manufacture",
+    "module": "MANUFACTURE",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 29,
+    "value": "MANUFACTURE::UPDATE",
+    "label": "Update Manufacture",
+    "module": "MANUFACTURE",
+    "type": "SYSTEM"
+  },
+  {
+    "id": 30,
+    "value": "MANUFACTURE::REMOVE",
+    "label": "Remove Manufacture",
+    "module": "MANUFACTURE",
+    "type": "SYSTEM"
+  }
+]

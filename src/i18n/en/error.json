@@ -1,0 +1,14 @@
+{
+  "INTERNAL_SERVER_ERROR": "Something unexpected happen, Please try again later.",
+  "BAD_REQUEST_ERROR": "Invalid user input.",
+  "NOT_FOUND_IN_DATABASE": "{label} not found.",
+  "UNAUTHORIZE": "User unauthorized",
+  "PAN_ALREADY_EXIST": "{label} PAN already exist.",
+  "TAN_ALREADY_EXIST": "{label} TAN already exist.",
+  "CANT_BE_DELETED": "{label} Can't be deleted.",
+  "CANT_BE_UPDATED": "{label} Can't be updated.",
+  "QUANTITY_CANT_BE_ADDED": "Item {label} Can't be Added.",
+  "SALE_ORDER_IS_COMPLEAT": "Invoice Quantity is more than {label}.",
+  "PURCHASE_ORDER_IS_COMPLETE": "Bill quantity is more than {label} quantity.",
+  "ALREADY_REGISTER": "{label} Already Register."
+}
