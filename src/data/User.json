@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "username": "hello",
+  "firstName": "manuAdmin",
+  "lastName": "admin",
+  "email": "user@gmail.com",
+  "phone": "9999999999",
+  "password": "hello@123",
+  "role": "MANUFACTURE_ADMIN",
+  "creatorId": 1,
+  "organizationId": 1,
+  "userType": "user",
+  "status": "active",
+  "isAdmin": true
+}

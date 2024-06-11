@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "username": "admin",
+  "firstName": "prabhaw",
+  "lastName": "Admin",
+  "email": "admin@gmail.com",
+  "phone": "99999999",
+  "password": "hello@123",
+  "role": "ADMIN",
+  "creatorId": null,
+  "userType": "system",
+  "status": "active",
+  "isAdmin": true
+}

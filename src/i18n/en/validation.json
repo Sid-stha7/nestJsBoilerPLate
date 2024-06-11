@@ -1,0 +1,5 @@
+{
+  "NOT_EMPTY": "{property} cannot be empty",
+  "INVALID": "{property} invalid",
+  "ALREADY_EXIST": "{property} already exist."
+}
